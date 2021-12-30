@@ -1,3 +1,9 @@
+Kulture Notes:
+Please just edit the build files. Add a traits folder with all traits. Run node build/index.js init to initialize a config file.
+
+Set everything up and run yarn generate to generate artworks
+
+
 # NFT Maker
 
 If this package helps, please consider dropping some sweet, 
